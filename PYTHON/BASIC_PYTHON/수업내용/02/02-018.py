@@ -1,0 +1,16 @@
+#02-018.py
+
+print(eval('1+2'))
+print(eval("'good ' + 'morning'"))
+print(eval('chr(65)'))
+print(max('abcdef'))
+print(min(1, 2, 3, 4))
+print(oct(100))
+print(oct(0x64))
+print(oct(0o144))
+print(hex(100))
+print(hex(0o144))
+print(divmod(13, 5))
+print(divmod(4, 2))
+print(chr(65))
+print(ord('A'))
